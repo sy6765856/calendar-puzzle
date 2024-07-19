@@ -1,4 +1,4 @@
 # calendar-puzzle
-# compile
+### compile
 c++  -std=c++14 -Wall puzzle.cpp
 
